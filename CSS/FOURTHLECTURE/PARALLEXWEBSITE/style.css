@@ -7,7 +7,7 @@
 
 #wrapper{
     height: 100vh;
-    /* overflow-y:auto; */
+    /* overflow-y:auto; */ 
     overflow-x: hidden;
     perspective: 10px;   /* 3d effect */   
 }
